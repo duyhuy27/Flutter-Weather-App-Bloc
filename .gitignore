@@ -25,3 +25,13 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Additional lines to avoid C++ related files
+*.cpp
+*.h
+*.c
+*.cc
+*.cxx
+*.hxx
+*.m
+*.mm
